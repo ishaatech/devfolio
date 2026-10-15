@@ -11,3 +11,4 @@ A responsive personal developer portfolio showcasing projects and contact links.
 - Responsive design with CSS Grid and Flexbox
 - Styled using CSS custom properties (variables)
 - Deployed on GitHub Pages
+submission ready!
